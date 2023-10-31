@@ -1,4 +1,4 @@
-package com.example.emailverification.User;
+package com.example.emailverification.user;
 
 public enum AppUserRole {
     USER,
